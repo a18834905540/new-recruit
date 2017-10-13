@@ -1,5 +1,6 @@
 Powered By Flat UI
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -20,7 +21,8 @@ Powered By Flat UI
       <script src="js/vendor/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body><div style="text-align:center;">
+  <body>
+  <div style="text-align:center;">
   <h1>ÕÐÐÂ½çÃæ<h1></div>
  <marquee>
  <img src="E:/p.jpg/1.jpg" width="500" height="200">
@@ -40,36 +42,36 @@ Powered By Flat UI
 <h3>·¢Õ¹Àú³Ì<h3>
 <ol>
 <li>  2009Äê11ÔÂ£¬ÇåÔóÐÄÓêÉÏÏß£¬ÍøÕ¾³ÉÁ¢</li>
-<li>?2009Äê12ÔÂ£¬¾­¹ýÑéÊÕ£¬±»É½Î÷Ê¡½ÌÓýÌüÆÀÎª¡°É½Î÷Ê¡¸ßÐ£Ë¼ÏëÕþÖÎ½ÌÓýÖ÷ÌâÍøÕ¾´ï±êµ¥Î»¡±</li>
-<li>?2010Äê£¬ÇåÔóÐÄÓêÍøÕ¾¿ªÊ¼ÎüÄÉ±¾¿ÆÉú£¬Öð²½¹¹½¨ÓÉÑ§Éú×ÔÖ÷¾­ÓªµÄÑ§ÉúÍøÕ¾</li>
-<li>?2012Äê10ÔÂ£¬ÇåÔóÐÄÓêÖÜÄê×¨ÌâÉÏÏß£¬ÖÁ´Ë¹²¼Æ²ß»®¿ª·¢ÌØÉ«×¨Ìâ28¸ö</li>
-<li>?2012Äê11ÔÂ£¬ÀÛ¼Æµã»÷Á¿Í»ÆÆËÄ°ÙÍò´ó¹Ø</li>
-<li>?2012Äê12ÔÂ£¬ÈÙâßÉ½Î÷Î¨Ò»µÚÎå½ì¡°È«¹ú¸ßÐ£°Ù¼ÑÍøÕ¾¡±³ÆºÅ</li>
-<li>?2012Äê12ÔÂ£¬»ñ¡°È«¹ú´óÑ§Éú¹«Òæ¹ã¸æÕ÷¼¯»î¶¯ÓÅÐã×éÖ¯½±</li>
-<li>?2012Äê12ÔÂ£¬ÈÙ»ñ¡°Ì«Ô­Àí¹¤´óÑ§2012Äê¶ÈÐû´«¹¤×÷ÏÈ½ø¼¯Ìå¡±</li>
-<li>?2013Äê3ÔÂ£¬ÈÙ»ñ¡°Ì«Ô­Àí¹¤´óÑ§µÚ¶þ½ìÍøÕ¾ÆÀ±È»î¶¯±ê±øÍøÕ¾¡±</li>
-<li>?2013Äê£¬È«¹úºÃÉùÒôÓÅÐã×éÖ¯½±</li>
-<li>?2013Äê5ÔÂ£¬É½Î÷Ê¡Ê¡³¤ÀîÐ¡ÅôÝ°ÁÙÎÒÐ£Ö¸µ¼ÆÚ¼ä£¬ÓëÎÒÕ¾ÊýÃûÑ§Éú½øÐÐ½»Á÷£¬³©Ì¸ÖÐ¹úÃÎ</li>
-<li>?2013Äê5ÔÂ£¬ÈÙ»ñ¡°É½Î÷Ê¡ÇàÄêÎåËÄ½±×´¡±</li>
-<li>?2013Äê5ÔÂ£¬»ñ¡°È«¹ú´óÑ§ÉúµÀµÂÄ£·¶ÓÅÐã×éÖ¯Ñ§Ð£¡±³ÆºÅ</li>
-<li>?2013Äê5ÔÂ£¬ÈËÃñÍøÉ½Î÷ÆµµÀÊÓÆµ´´×÷»ùµØ</li>
-<li>?2013Äê7ÔÂ-8ÔÂ£¬ÇåÔóÐÄÓêÍøÕ¾ÓëÈËÃñÍø¡ªÉ½Î÷ÆµµÀºÏ×÷£¬Éç»áÊµ¼ùÍÅ¶ÓÍê³É¡°ÃÎÏëÔÚÂ·ÉÏ¡±ÏµÁÐ·ÃÌ¸½ÚÄ¿</li>
-<li>?2013Äê8ÔÂ£¬ÈÙâßµÚÁù½ì¡°È«¹ú¸ßÐ£°Ù¼ÑÍøÕ¾¡±³ÆºÅ</li> 
-<li>?2013Äê12ÔÂ£¬È«¹ú¸ßÐ£ÍøÕ¾ÁªÃË³£ÎñÀíÊÂµ¥Î»</li>
-<li>?2013Äê12ÔÂ£¬µÚÆß½ì¡°È«¹ú¸ßÐ£°Ù¼ÑÍøÕ¾¡±ÈÙÓþ³ÆºÅ</li>
-<li>?2014Äê3ÔÂ9ÈÕ£¬¡°ÇåÔóÐÄÓê¡±ÍøÕ¾µÚÎå½ìµÚÈý´ÎÈ«Õ¾´ó»á£»ÈËÃñÍø¡ªÉ½Î÷ÆµµÀÔÚÎÒÕ¾½¨Á¢¡°ÊÓÆµÖÆ×÷»ùµØ¡±£¬¾ÙÐÐÊÚÅÆÒÇÊ½£»Ã÷ÏòÐ£Çø³£ÎñÀíÊÂ»áÕýÊ½³ÉÁ¢</li>
-<li>?2014Äê3ÔÂ31ÈÕ£¬È«¹ú´óÑ§Éú¹«Òæ¹ã¸æÕ÷¼¯»î¶¯Ð£Ô°Ñ²½²Ì«Ô­Àí¹¤´óÑ§Õ¾£»ÐÂ°æÇåÔóÎ¢ÊÓÍøÕ¾ºÍÇåÔóÎ¢ÊÓAPPÕýÊ½ÉÏÏß</li>
-<li>?2014Äê08ÔÂ14ÈÕ£¬¡¶ÈËÃñÈÕ±¨¡·Õû°æ±¨µÀ¡°ÇåÔóÐÄÓê¡±ÍøÕ¾£¬³Æ£º¡°ÇåÔóÐÄÓê¡±ÒÑ³ÉÎªÈ«¹úÖªÃûµÄÍøÂçÎÄ»¯ÓýÈËÒýÇæ</li>
-<li>?2015Äê1ÔÂ£¬È«¹ú¸ßÐ£ÍøÕ¾ÁªÃËÍøÂç×ÊÔ´½¨ÉèÎ¯Ô±»á¸±Ö÷ÈÎµ¥Î»</li>
+<li>  2009Äê12ÔÂ£¬¾­¹ýÑéÊÕ£¬±»É½Î÷Ê¡½ÌÓýÌüÆÀÎª¡°É½Î÷Ê¡¸ßÐ£Ë¼ÏëÕþÖÎ½ÌÓýÖ÷ÌâÍøÕ¾´ï±êµ¥Î»¡±</li>
+<li>  2010Äê£¬ÇåÔóÐÄÓêÍøÕ¾¿ªÊ¼ÎüÄÉ±¾¿ÆÉú£¬Öð²½¹¹½¨ÓÉÑ§Éú×ÔÖ÷¾­ÓªµÄÑ§ÉúÍøÕ¾</li>
+<li>  2012Äê10ÔÂ£¬ÇåÔóÐÄÓêÖÜÄê×¨ÌâÉÏÏß£¬ÖÁ´Ë¹²¼Æ²ß»®¿ª·¢ÌØÉ«×¨Ìâ28¸ö</li>
+<li>  2012Äê11ÔÂ£¬ÀÛ¼Æµã»÷Á¿Í»ÆÆËÄ°ÙÍò´ó¹Ø</li>
+<li>  2012Äê12ÔÂ£¬ÈÙâßÉ½Î÷Î¨Ò»µÚÎå½ì¡°È«¹ú¸ßÐ£°Ù¼ÑÍøÕ¾¡±³ÆºÅ</li>
+<li>  2012Äê12ÔÂ£¬»ñ¡°È«¹ú´óÑ§Éú¹«Òæ¹ã¸æÕ÷¼¯»î¶¯ÓÅÐã×éÖ¯½±</li>
+<li>  2012Äê12ÔÂ£¬ÈÙ»ñ¡°Ì«Ô­Àí¹¤´óÑ§2012Äê¶ÈÐû´«¹¤×÷ÏÈ½ø¼¯Ìå¡±</li>
+<li>  2013Äê3ÔÂ£¬ÈÙ»ñ¡°Ì«Ô­Àí¹¤´óÑ§µÚ¶þ½ìÍøÕ¾ÆÀ±È»î¶¯±ê±øÍøÕ¾¡±</li>
+<li>  2013Äê£¬È«¹úºÃÉùÒôÓÅÐã×éÖ¯½±</li>
+<li>  2013Äê5ÔÂ£¬É½Î÷Ê¡Ê¡³¤ÀîÐ¡ÅôÝ°ÁÙÎÒÐ£Ö¸µ¼ÆÚ¼ä£¬ÓëÎÒÕ¾ÊýÃûÑ§Éú½øÐÐ½»Á÷£¬³©Ì¸ÖÐ¹úÃÎ</li>
+<li>  2013Äê5ÔÂ£¬ÈÙ»ñ¡°É½Î÷Ê¡ÇàÄêÎåËÄ½±×´¡±</li>
+<li>  2013Äê5ÔÂ£¬»ñ¡°È«¹ú´óÑ§ÉúµÀµÂÄ£·¶ÓÅÐã×éÖ¯Ñ§Ð£¡±³ÆºÅ</li>
+<li>  2013Äê5ÔÂ£¬ÈËÃñÍøÉ½Î÷ÆµµÀÊÓÆµ´´×÷»ùµØ</li>
+<li>  2013Äê7ÔÂ-8ÔÂ£¬ÇåÔóÐÄÓêÍøÕ¾ÓëÈËÃñÍø¡ªÉ½Î÷ÆµµÀºÏ×÷£¬Éç»áÊµ¼ùÍÅ¶ÓÍê³É¡°ÃÎÏëÔÚÂ·ÉÏ¡±ÏµÁÐ·ÃÌ¸½ÚÄ¿</li>
+<li>  2013Äê8ÔÂ£¬ÈÙâßµÚÁù½ì¡°È«¹ú¸ßÐ£°Ù¼ÑÍøÕ¾¡±³ÆºÅ</li> 
+<li>  2013Äê12ÔÂ£¬È«¹ú¸ßÐ£ÍøÕ¾ÁªÃË³£ÎñÀíÊÂµ¥Î»</li>
+<li>  2013Äê12ÔÂ£¬µÚÆß½ì¡°È«¹ú¸ßÐ£°Ù¼ÑÍøÕ¾¡±ÈÙÓþ³ÆºÅ</li>
+<li>  2014Äê3ÔÂ9ÈÕ£¬¡°ÇåÔóÐÄÓê¡±ÍøÕ¾µÚÎå½ìµÚÈý´ÎÈ«Õ¾´ó»á£»ÈËÃñÍø¡ªÉ½Î÷ÆµµÀÔÚÎÒÕ¾½¨Á¢¡°ÊÓÆµÖÆ×÷»ùµØ¡±£¬¾ÙÐÐÊÚÅÆÒÇÊ½£»Ã÷ÏòÐ£Çø³£ÎñÀíÊÂ»áÕýÊ½³ÉÁ¢</li>
+<li>  2014Äê3ÔÂ31ÈÕ£¬È«¹ú´óÑ§Éú¹«Òæ¹ã¸æÕ÷¼¯»î¶¯Ð£Ô°Ñ²½²Ì«Ô­Àí¹¤´óÑ§Õ¾£»ÐÂ°æÇåÔóÎ¢ÊÓÍøÕ¾ºÍÇåÔóÎ¢ÊÓAPPÕýÊ½ÉÏÏß</li>
+<li>  2014Äê08ÔÂ14ÈÕ£¬¡¶ÈËÃñÈÕ±¨¡·Õû°æ±¨µÀ¡°ÇåÔóÐÄÓê¡±ÍøÕ¾£¬³Æ£º¡°ÇåÔóÐÄÓê¡±ÒÑ³ÉÎªÈ«¹úÖªÃûµÄÍøÂçÎÄ»¯ÓýÈËÒýÇæ</li>
+<li>  2015Äê1ÔÂ£¬È«¹ú¸ßÐ£ÍøÕ¾ÁªÃËÍøÂç×ÊÔ´½¨ÉèÎ¯Ô±»á¸±Ö÷ÈÎµ¥Î»</li>
 <li>  2015Äê5ÔÂ£¬È«³Ì¼ÇÂ¼±¨µÀ¡°ASC15ÊÀ½ç´óÑ§Éú³¬¼¶¼ÆËã»ú¾ºÈü×Ü¾öÈü¡±</li>
-<li>?2015Äê11ÔÂ£¬ÁªºÏÉ½Î÷Ê¡µçÊÓÌ¨¾Ù°ì¡°ÎÒÐÍÎÒÐã¡±´óÐÍÕÐÆ¸ÀàµçÊÓ½ÚÄ¿£¬²¢ÓëÍ¬ÆÚ²ÎÓëÌ«Ô­Àí¹¤´óÑ§Ðû´«Æ¬µÄÅÄÉã</li>
-<li>?2016Äê4ÔÂ£¬ÇåÔóÐÄÓêÍøÕ¾»ñ"È«¹ú¸ßÐ£ÓÅÐãÍøÕ¾"(×Ü¼Æ¶þÊ®¸ö)¡¢?ÇåÔóÎ¢ÊÓ»ñ"È«¹ú¸ßÐ£ÓÅÐãÍøÂçÀ¸Ä¿" (×Ü¼ÆÈýÊ®¸ö) £¬¶¼ÊÇ×î¸ß½±¡£</li>
-<li>?2016Äê8ÔÂ£¬È«¹ú°ÙÇ¿×îÊÜ»¶Ó­Ð£Ô°Ã½Ìå¡£</li>
-<li>?2016Äê8ÔÂ£¬ÖÐ¹úÈí¼þ²ú½Ì»¥¶¯ÁªÃËÀíÊÂµ¥Î»¡£</li>
+<li>  2015Äê11ÔÂ£¬ÁªºÏÉ½Î÷Ê¡µçÊÓÌ¨¾Ù°ì¡°ÎÒÐÍÎÒÐã¡±´óÐÍÕÐÆ¸ÀàµçÊÓ½ÚÄ¿£¬²¢ÓëÍ¬ÆÚ²ÎÓëÌ«Ô­Àí¹¤´óÑ§Ðû´«Æ¬µÄÅÄÉã</li>
+<li>  2016Äê4ÔÂ£¬ÇåÔóÐÄÓêÍøÕ¾»ñ"È«¹ú¸ßÐ£ÓÅÐãÍøÕ¾"(×Ü¼Æ¶þÊ®¸ö),ÇåÔóÎ¢ÊÓ»ñ"È«¹ú¸ßÐ£ÓÅÐãÍøÂçÀ¸Ä¿" (×Ü¼ÆÈýÊ®¸ö) £¬¶¼ÊÇ×î¸ß½±¡£</li>
+<li>  2016Äê8ÔÂ£¬È«¹ú°ÙÇ¿×îÊÜ»¶Ó­Ð£Ô°Ã½Ìå¡£</li>
+<li>  2016Äê8ÔÂ£¬ÖÐ¹úÈí¼þ²ú½Ì»¥¶¯ÁªÃËÀíÊÂµ¥Î»¡£</li>
 <li>  2017Äê4ÔÂ£¬ÇåÔóÐÄÓêÈÙ»ñµÚÈý½ìÖÐ¹úÇàÄêÖ¾Ô¸·þÎñÏîÄ¿´óÈü½ð½±¡£</li>
 <li>  2017Äê4ÔÂ£¬È«³Ì¼ÇÂ¼±¨µÀµÚÁù½ìÈ«¹ú¸ßÐ£¸¨µ¼Ô±Ö°ÒµÄÜÁ¦´óÈü¡£</li>  
-<li>?2017Äê5ÔÂ3ÈÕ É½Î÷Ê¡Î¯Êé¼Ç¡¢Ê¡ÈË´ó³£Î¯»áÖ÷ÈÎÂæ»ÝÄþÀ´µ½Ì«Ô­Àí¹¤´óÑ§¾Í¼ÓÇ¿ºÍ¸Ä½ø¸ßÐ£Ë¼ÏëÕþÖÎ¹¤×÷½øÐÐµ÷ÑÐ¡£ÆÚ¼ä£¬Âæ»ÝÄþÇ××Ô²Î¹ÛÁËÇåÔóÐÄÓêÍøÂç½ÌÓýÕóµØ²¢¹Û¿´ÍøÕ¾Æ½Ì¨ÁË½âÏßÉÏ»¥¶¯ºÍ½»Á÷Çé¿ö£¬²¢ÇÒÉîÈëµØÓëÑ§Éú½øÐÐÁË½»Ì¸¡£</li>
-<li>?2017Äê7ÔÂ11ÈÕÉÏÎç£¬½ÌÓý²¿²¿³¤¡¢µ³×éÊé¼Ç³Â±¦ÉúÔÚÉ½Î÷Ê¡¸±Ê¡³¤ÕÅ¸´Ã÷¡¢Ê¡½ÌÓýÌüÌü³¤Îâ¿¡Çå¡¢Ð£µ³Î¯Êé¼ÇÎâÓñ³ÌºÍÐ£³¤»ÆÇìÑ§µÄÅãÍ¬ÏÂ£¬À´µ½Î»ÓÚÎÒÐ£Ã÷ÏòÐ£ÇøÑ§Éú»î¶¯ÖÐÐÄ¶þ²ãµÄÇåÔóÐÄÓêÐÂÃ½ÌåÖÐÐÄ½øÐÐ¼ì²éÖ¸µ¼¡£³Â±¦Éú²¿³¤ÔÚÐÂÃ½ÌåÖÐÐÄÌýÈ¡ÁËÑ§Éú´¦´¦³¤ºÂ¸ùÑå¶ÔÇåÔóÐÄÓêÐÂÃ½ÌåÖÐÐÄ·¢Õ¹Çé¿öµÄ½éÉÜ£¬²¢ÓëÍ¬Ñ§ÃÇ½øÐÐÁËÇ×ÇÐ½»Á÷</li>
+<li>  2017Äê5ÔÂ3ÈÕ É½Î÷Ê¡Î¯Êé¼Ç¡¢Ê¡ÈË´ó³£Î¯»áÖ÷ÈÎÂæ»ÝÄþÀ´µ½Ì«Ô­Àí¹¤´óÑ§¾Í¼ÓÇ¿ºÍ¸Ä½ø¸ßÐ£Ë¼ÏëÕþÖÎ¹¤×÷½øÐÐµ÷ÑÐ¡£ÆÚ¼ä£¬Âæ»ÝÄþÇ××Ô²Î¹ÛÁËÇåÔóÐÄÓêÍøÂç½ÌÓýÕóµØ²¢¹Û¿´ÍøÕ¾Æ½Ì¨ÁË½âÏßÉÏ»¥¶¯ºÍ½»Á÷Çé¿ö£¬²¢ÇÒÉîÈëµØÓëÑ§Éú½øÐÐÁË½»Ì¸¡£</li>
+<li>  2017Äê7ÔÂ11ÈÕÉÏÎç£¬½ÌÓý²¿²¿³¤¡¢µ³×éÊé¼Ç³Â±¦ÉúÔÚÉ½Î÷Ê¡¸±Ê¡³¤ÕÅ¸´Ã÷¡¢Ê¡½ÌÓýÌüÌü³¤Îâ¿¡Çå¡¢Ð£µ³Î¯Êé¼ÇÎâÓñ³ÌºÍÐ£³¤»ÆÇìÑ§µÄÅãÍ¬ÏÂ£¬À´µ½Î»ÓÚÎÒÐ£Ã÷ÏòÐ£ÇøÑ§Éú»î¶¯ÖÐÐÄ¶þ²ãµÄÇåÔóÐÄÓêÐÂÃ½ÌåÖÐÐÄ½øÐÐ¼ì²éÖ¸µ¼¡£³Â±¦Éú²¿³¤ÔÚÐÂÃ½ÌåÖÐÐÄÌýÈ¡ÁËÑ§Éú´¦´¦³¤ºÂ¸ùÑå¶ÔÇåÔóÐÄÓêÐÂÃ½ÌåÖÐÐÄ·¢Õ¹Çé¿öµÄ½éÉÜ£¬²¢ÓëÍ¬Ñ§ÃÇ½øÐÐÁËÇ×ÇÐ½»Á÷</li>
 </ol>
 <h4>½ÓÏÂÀ´½éÉÜ¸÷¸ö²¿ÃÅ<h4>
 <p>ÍøÂç°²È«²¿</p>
@@ -120,19 +122,19 @@ AndroidÓ¦ÓÃ¿ª·¢:
 3¡¢	×é¶ÓÌôÕ½ÖÐÈí±­¡£
 <p>ÊÓÆµ¼¯ÍÅ</p>
 <p>(1)ÇåÔóµçÊÓÌ¨</p>
-?	×ÚÖ¼
+    ×ÚÖ¼
 ×ö´óÑ§Éú×Ô¼ºµÄÊÓÆµÍøÕ¾
-?	¼ò½é
+<p>¼ò½é</P>
    ÇåÔóµçÊÓÌ¨×÷ÎªÇåÔóÎ¢ÊÓ×ÛºÏÐÔ×îÇ¿µÄÒ»¸ö×ÓÕ¾£¬ÓµÓÐÍê±¸µÄÓ°ÊÓÉè±¸£¬¼¼ÊõÃæ°üº¬ÉãÓ°ÉãÏñ¡¢Í¼Ïñ´¦Àí¡¢ÌØÐ§ÖÆ×÷ºÍÓ°ÊÓºóÆÚ¡£ÇåÔóµçÊÓÌ¨ÔÚ¸÷·½Ãæ¶¼»ý¼«Ïò´óÐÍµçÊÓÌ¨¿¿Â££¬³Ðµ£×ÅÐ£Ô°ÐÂÎÅ¡¢Ð£Ô°À¸Ä¿µÈ¹¤×÷£¬¹ÄÀøÑ§Éú°Ñ×Ô¼ºµÄ´´ÒâÍ¨¹ýÓ°ÊÓµÄÊÖ¶Î³ÊÏÖÔÚ´ó¼ÒÃæÇ°¡£±ü³ÐÁ¢×ãÐ£Ô°£¬·þÎñÊ¦ÉúµÄÔ­Ôò£¬ÒýÁìÕýÈ·µÄÓßÂÛµ¼Ïò£¬´´ÔìÁ¼ºÃµÄÓßÂÛ»·¾³£¬½ô½ôÎ§ÈÆÑ§Ð£µÄÖÐÐÄ¹¤×÷ºÍ¹¤×÷ÖØÐÄ£¬¼°Ê±Ðû´«Ñ§Ð£¹¤×÷ÁÁµã£¬´Ù½øÐ£Ô°ÎÄ»¯ºÍ¾«ÉñÎÄÃ÷½¨Éè¡£
 
-?	·¢Õ¹Àú³Ì<ol>
+    ·¢Õ¹Àú³Ì<ol>
 <li>   2012ÄêÇåÔóÎ¢ÊÓÉÏÏß </li>
 <li>  2013ÄêµçÊÓÌ¨³ÉÁ¢</li>
 <li>   2015Äê¸Ä×é£¬ÍøÂçµçÊÓÌ¨³ÉÁ¢</li>
 <li>   2016Äê2ÔÂ£¬¸Ä³ÆÇåÔóµçÊÓÌ¨</li>
 <li>   2017Äê£¬¶þÆÚÇåÔóµçÊÓÌ¨´«³Ð²¢·¢Õ¹</li>
 </ol>
-?	ÌØÉ«À¸Ä¿
+<p>ÌØÉ«À¸Ä¿</P>
    Ò»ÖÜÐÂÎÅ²¥±¨£ºÒ»µµ×ÛºÏÐÔÊÓÆµÐÂÎÅ²¥±¨Àà½ÚÄ¿¡£½ÚÄ¿ÄÚÈÝÒÔÖØÒªÊ±Õþ¡¢¸÷Ïî»áÒé¡¢Ð£ÄÚ¸÷Àà»î¶¯¡¢Ö÷Á÷ÐÔ±¨µÀµÈ·ûºÏ²¥³öÒªÇóµÄÐÂÎÅÎªÖ÷£¬´«²¥Ð£Ô°ÏÈ½øÎÄ»¯£¬ÎªÊ¦ÉúÁË½âÐ£ÄÚÖØ´óÐÂÎÅÌá¹©Æ½Ì¨¡£ 
    Î¢·üË½·Ã£ºÍ¨¹ýÈ¤Î¶ÐÔºÍÊµÐ§ÐÔµÄ²É·Ã·´Ó³Ñ§Éú¶ÔÈÈµãÎÊÌâµÄ¿´·¨ºÍ¼û½â¡£ÒÔ×ö´óÑ§ÉúµÄÉú»î´úÑÔÕßÎªÀíÄî£¬½ôÃÜÎ§ÈÆ½¹µã»°ÌâºÍÓéÀÖÈÈµã£¬·´Ó³µ±´ú´óÑ§ÉúµÄ¾«Éñ·çÃ²¡£
    Ì«ÀíÔÓ»õÆÌ£ºÔÓ»õÆÌ×÷Îª×ßÔÚ´´ÒâÇ°ÑØµÄÀ¸Ä¿£¬¹¤×÷Çø¼ä¼«Îª¿í·º£¬Ö÷ÒªÒÔÅÄÉãÖÆ×÷ÓÐ´´ÒâµÄ¶ÌÆ¬ÎªÖ÷£¬ÄÚÈÝÒÔ¼°ÐÎÊ½¶¼Ã»ÓÐ¹Ì»¯Ä£Ê½£¬ÎªÏ²»¶´´×÷µÄÐ¡»ï°éÌá¹©ÁË¹ã·ºÊ©Õ¹²Å»ªµÄ¿Õ¼ä£¡
@@ -145,18 +147,18 @@ AndroidÓ¦ÓÃ¿ª·¢:
 
 »òhttp://d.xiumi.us/stage/v5/2E6WY/50708603
 <p>Î¢Ð§·»</p>
-?	×ÚÖ¼£º
+    ×ÚÖ¼£º
 ×ö´óÑ§Éú×Ô¼ºµÄÊÓÆµÍøÕ¾
-?	ÐÔÖÊ
+<p>ÐÔÖÊ</P>
 ÒÔÖÆ×÷ÌØÐ§ºÍ¶¯»­ÎªÖ÷ÒªÄ¿±êµÄÎ¢ÊÓ×ÓÕ¾
-?	×éÖ¯ÈÎÎñ¼°Ä¿±ê
+<p>×éÖ¯ÈÎÎñ¼°Ä¿±ê</P>
 ³Ðµ£Ñ§Ð£µÄ²¿·ÖÊÓÆµÃ½ÌåÐû´«ÈÎÎñ¡£
 ³Ðµ£¼ô¼­¡¢ÌØÐ§¡¢¶¯»­µÈºóÆÚÈÎÎñ¡£
-?	ÍÅ¶Ó½¨ÉèºÍ·¢Õ¹
+ÍÅ¶Ó½¨ÉèºÍ·¢Õ¹
  
 <span>Î¢Ð§·»</span>ÊÇ½üÄêÐÂÉúµÄÒ»¸ö×ÓÕ¾£¬ÊÇÎ¢ÊÓÍøÕ¾ÖØÒªµÄÒ»»·£¬»¹ÓÐºÜ´óÌáÉýµÄ¿Õ¼ä¡£Í¬Ê±Î¢Ð§·»Ò²ÊÇÒ»¸ö¿ìÀÖºÍÄÀµÄ´ó¼ÒÍ¥£¬ÔÚÕâÀï£¬³ýÁË¿ÉÒÔ½á½»µ½Ö¾Í¬µÀºÏ¡¢¿ÉÒÔÒ»ÆðÌáÉýµçÄÔ¼¼ÊõµÄÍ¬°éÖ®Íâ¡£Ã¿ÈÕµÄÉú»îÌåÑéÒ²»áÈÃÄã´óÑ§Éú»î·á¸»¶ø¶à²Ê¡£
 <p>Î¢Ó°Ïñ</P>
-×ÚÖ¼
+×ÚÖ¼£º
 ×ö´óÑ§Éú×Ô¼ºµÄÊÓÆµÍøÕ¾¡£
 
 ¼ò½é
@@ -171,7 +173,7 @@ AndroidÓ¦ÓÃ¿ª·¢:
 ÔÚÕâÀï£¬Äã»áÊìÏ¤µÄÕÆÎÕPrµÄ²Ù×÷£¬Ò²»áÉæÁÔAE¡¢LR¡¢AU¡¢PSµÈÈí¼þ¡£ÕâÊÇÒ»¸öÈÃÄãµÄ°®ºÃÈÕÒæ·áÂúµÄµØ·½£¬Ò²ÊÇÒ»¸öÈÃÄãµÄÏë·¨±äÎªÏÖÊµµÄµØ·½¡£Äã»áÊÕ»ñÒ»ÈºÁ¼Ê¦ÒæÓÑ£¬»áÖªÏþÒ»¸öÍÅ¶ÓµÄÁ¦Á¿ºÍÎÂÅ¯£¬»á°ÑÕâÀïµ±³ÉÒ»¸öÎÂÅ¯µÄ¼Ò£¬ÔÚÕâÀï£¬ÎÒÃÇÐ¯ÊÖÒ»Æð³É³¤£¡
 ´º·çÊ®Àï£¬Ö»´ýÄãÀ´¡£
 
-  <embed  src="E:/themass.mp3" hidden="true" autostart="true" loop="true"></embed>
+  <bgsound  src="E:/themass.mp3" hidden="true" autostart="true" loop="infinite"></bgsound>
 <div style="text-align:center;"><a href="http://uzone.univs.cn/content.action?itemId=1813_7xvbpxvin0qazlhmvin1"> <img src="E:/picture.jpg" width="500" height="200"></a></div>
 <div style="text-align:center;"><strong>µã»÷Í¼Æ¬¿É²é¿´Ïà¹ØÐÅÏ¢</strong></div>
 <div style="text-align:center;"> <p> <label for="myName">ÐÕÃû£º</label></p>
@@ -200,4 +202,5 @@ AndroidÓ¦ÓÃ¿ª·¢:
 	 <input type="radio" name="radioLove" value="Å®" checked="checked">Å®
 	<p> <input type="submit" value="Ìá½»" style="width:80px;height:50px;color=red;" /></P>
   </body>
-  </html>â€œPowered By Flat UIâ€
+  </html>Powered By Flat UI
+Powered By Flat UI
